@@ -1,0 +1,1 @@
+var json_FOCO2_2 = {"type":"FeatureCollection","name":"FOCO2_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":800920.0,"Y":9845806.0,"Z":1918.0,"FOCO":"FOCO"},"geometry":{"type":"Point","coordinates":[-78.295923264639555,-1.393475521876354]}}]}
